@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "DK-death",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.0166666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "312a1144-ff5f-4d81-9792-102294633059"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "1f9f8a24-ad98-4e1a-b971-94173ff14dd0"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "08d79499-674a-4942-8d51-eb3618e37bee"
+            }
+          },
+          {
+            "frame": 0.75,
+            "value": {
+              "__uuid__": "8fadfb16-35e6-4f06-8cee-9bb7e6eb668a"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "f656cf32-7b08-468d-aea9-ce4af9ec4455"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
