@@ -1,0 +1,156 @@
+2020-05-31T08:03:39.788Z - normal: Load ~/.CocosCreator/settings.json
+2020-05-31T08:03:41.271Z - normal: Initializing Asset Database
+2020-05-31T08:03:41.281Z - normal: checking language setting...
+2020-05-31T08:03:41.281Z - normal: Language: zh
+2020-05-31T08:03:43.555Z - success: preview server running at http://localhost:7456
+2020-05-31T08:03:43.563Z - success: protocol editor-framework registered
+2020-05-31T08:03:43.564Z - success: protocol app registered
+2020-05-31T08:03:43.565Z - success: protocol theme registered
+2020-05-31T08:03:43.565Z - success: protocol packages registered
+2020-05-31T08:03:43.566Z - success: protocol uuid registerred
+2020-05-31T08:03:43.566Z - success: protocol db registerred
+2020-05-31T08:03:43.567Z - success: protocol thumbnail registerred
+2020-05-31T08:03:43.567Z - success: protocol unpack registerred
+2020-05-31T08:03:43.567Z - success: protocol disable-commonjs registerred
+2020-05-31T08:03:43.882Z - normal: connected!
+2020-05-31T08:03:43.886Z - normal: Check project W:\CocosProject\WallGame
+2020-05-31T08:03:43.894Z - normal: Initializing project W:\CocosProject\WallGame
+2020-05-31T08:03:45.178Z - normal: Initializing Cocos2d
+2020-05-31T08:03:47.899Z - normal: Initializing engine extends
+2020-05-31T08:03:47.995Z - success: asset-db-debugger loaded
+2020-05-31T08:03:47.998Z - success: baidu-adapter loaded
+2020-05-31T08:03:48.001Z - success: color-picker loaded
+2020-05-31T08:03:48.369Z - success: fb-audience-network loaded
+2020-05-31T08:03:48.549Z - success: fb-live-stream loaded
+2020-05-31T08:03:48.558Z - success: google-play-instant loaded
+2020-05-31T08:03:48.574Z - success: huawei-runtime loaded
+2020-05-31T08:03:49.328Z - success: cpk-publish loaded
+2020-05-31T08:03:49.330Z - success: jsb-adapter loaded
+2020-05-31T08:03:49.345Z - success: oppo-runtime loaded
+2020-05-31T08:03:49.354Z - success: package-manager loaded
+2020-05-31T08:03:49.737Z - success: qqplay-adapter loaded
+2020-05-31T08:03:49.741Z - success: runtime-dev-tools loaded
+2020-05-31T08:03:49.752Z - success: sdkbox loaded
+2020-05-31T08:03:49.760Z - success: tester loaded
+2020-05-31T08:03:49.766Z - success: ui-grid loaded
+2020-05-31T08:03:49.771Z - success: ui-kit-preview-extra loaded
+2020-05-31T08:03:49.777Z - success: ui-kit-preview loaded
+2020-05-31T08:03:49.781Z - success: ui-kit loaded
+2020-05-31T08:03:49.786Z - success: ui-tree loaded
+2020-05-31T08:03:49.801Z - success: vivo-runtime loaded
+2020-05-31T08:03:49.803Z - success: weapp-adapter loaded
+2020-05-31T08:03:49.805Z - success: xiaomi-adapter loaded
+2020-05-31T08:03:49.936Z - success: assets loaded
+2020-05-31T08:03:49.943Z - success: builder loaded
+2020-05-31T08:03:50.798Z - success: cocos-services loaded
+2020-05-31T08:03:50.812Z - success: console loaded
+2020-05-31T08:03:50.909Z - success: fb-instant-games loaded
+2020-05-31T08:03:50.917Z - success: game-window loaded
+2020-05-31T08:03:50.922Z - success: google-instant-games loaded
+2020-05-31T08:03:50.935Z - success: hierarchy loaded
+2020-05-31T08:03:50.951Z - success: inspector loaded
+2020-05-31T08:03:50.955Z - success: keystore loaded
+2020-05-31T08:03:50.968Z - success: node-library loaded
+2020-05-31T08:03:50.972Z - success: package-asset loaded
+2020-05-31T08:03:50.977Z - success: preferences loaded
+2020-05-31T08:03:50.982Z - success: project-exporter loaded
+2020-05-31T08:03:50.990Z - success: project-importer loaded
+2020-05-31T08:03:50.997Z - success: project-settings loaded
+2020-05-31T08:03:51.007Z - success: scene loaded
+2020-05-31T08:03:51.012Z - success: simulator-debugger loaded
+2020-05-31T08:03:51.015Z - success: sprite-editor loaded
+2020-05-31T08:03:51.036Z - success: store loaded
+2020-05-31T08:03:51.050Z - success: timeline loaded
+2020-05-31T08:03:51.062Z - success: xiaomi-runtime loaded
+2020-05-31T08:03:54.061Z - normal: Loading packages
+2020-05-31T08:03:54.079Z - normal: Watching packages
+2020-05-31T08:03:54.806Z - info: Cocos Services load base data!
+2020-05-31T08:03:55.385Z - normal: Run Application
+2020-05-31T08:06:44.394Z - normal: Start building with options : {
+  "actualPlatform": "android",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "android-29",
+  "appABIs": [],
+  "appBundle": false,
+  "baidugame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "testappid",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "buildPath": "W:\\CocosProject\\WallGame\\build",
+  "debug": false,
+  "dest": "W:\\CocosProject\\WallGame\\build\\jsb-link",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.WallGame",
+  "platform": "android",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "scenes": [
+    "0f660576-490d-43d8-9e68-72bc1ce51ac8",
+    "0adb49a7-b586-4a84-960e-a6020123c0b2"
+  ],
+  "sourceMaps": false,
+  "startScene": "0f660576-490d-43d8-9e68-72bc1ce51ac8",
+  "template": "link",
+  "title": "WallGame",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "landscape",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "separate_engine": false,
+    "subContext": ""
+  },
+  "xxteaKey": "78ea34b8-1a78-4a",
+  "zipCompressJs": true,
+  "project": "W:\\CocosProject\\WallGame",
+  "projectName": "WallGame",
+  "debugBuildWorker": false
+}
+2020-05-31T08:06:44.405Z - normal: Building W:\CocosProject\WallGame
+2020-05-31T08:06:44.405Z - normal: Destination W:\CocosProject\WallGame\build\jsb-link
+2020-05-31T08:06:44.740Z - normal: Delete W:\CocosProject\WallGame\build\jsb-link\subpackages/**/*,W:\CocosProject\WallGame\build\jsb-link\res/**/*,W:\CocosProject\WallGame\build\jsb-link\src/**/*
+2020-05-31T08:06:54.863Z - normal: Start building assets
+2020-05-31T08:06:54.863Z - normal: Start spawn build-worker
+2020-05-31T08:06:56.972Z - normal: Finish spawn build-worker
+2020-05-31T08:06:56.973Z - normal: Start init build-worker
+2020-05-31T08:07:06.676Z - normal: Finish init build-worker
+2020-05-31T08:07:06.677Z - normal: Start build-assets in worker
+2020-05-31T08:07:07.337Z - info: Enable "内联所有 SpriteFrame" in native platform will increase the package size used in hot update.
+2020-05-31T08:07:08.152Z - normal: Finish build-assets in worker
+2020-05-31T08:07:08.178Z - normal: Finish building assets
+2020-05-31T08:07:08.231Z - normal: Start building plugin scripts
+2020-05-31T08:07:08.267Z - normal: Generating main.js from W:\CocosCreator_2.1.2\resources\static\build-templates\shares\main.js
+2020-05-31T08:07:10.162Z - normal: Built to "W:\CocosProject\WallGame\build\jsb-link" successfully
+2020-05-31T08:08:13.006Z - info: shutdown preview server
