@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gear3",
+    "texture": "084afdab-531e-4712-8504-31dfad75d7be",
+    "atlas": "",
+    "rect": [
+      37,
+      68,
+      266,
+      266
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      340,
+      401
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
