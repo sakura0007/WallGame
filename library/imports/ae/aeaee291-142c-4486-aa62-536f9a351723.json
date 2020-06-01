@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dk-run-2",
+    "texture": "dc37ba40-2ed0-4d7b-bb1e-905d56d0f72d",
+    "atlas": "",
+    "rect": [
+      67,
+      22,
+      127,
+      173
+    ],
+    "offset": [
+      -3.5,
+      -4
+    ],
+    "originalSize": [
+      268,
+      209
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

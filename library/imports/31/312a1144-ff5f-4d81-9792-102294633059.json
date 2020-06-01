@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dk-death-0",
+    "texture": "329814a3-dd98-47f9-87f9-f2906f1d9e7f",
+    "atlas": "",
+    "rect": [
+      74,
+      16,
+      128,
+      149
+    ],
+    "offset": [
+      4,
+      14
+    ],
+    "originalSize": [
+      268,
+      209
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
